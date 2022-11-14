@@ -1,0 +1,8 @@
+scikit-learn
+matplotlib
+seaborn
+pandas
+notebook
+joblib
+prometheus-client==0.11.0
+boxkite==0.0.5
