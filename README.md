@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ipython kernel install --name "model-pipeline-env" --user
 ```
 
-**Step Four**: Start notebook and choose the previously created kernel to run `model_pipeline.ipynb`:
+**Step Four**: Start notebook and choose the previously created kernel `model-pipeline-env` to run `model_pipeline.ipynb`:
 ```bash
 jupyter notebook
 ```
